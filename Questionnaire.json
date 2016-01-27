@@ -1,0 +1,52 @@
+{
+  "text": "serviceURI",
+  "answer": [
+    {
+      "text": "OSHosting",
+      "question": {
+        "text": "Problem Category?",
+        "answer": [
+          {
+            "text": "Service Restart",
+            "question": {
+              "text": "Service Name?",
+              "answer": [
+                {
+                  "text": "Apache"
+                },
+                {
+                  "text": "mysql"
+                }
+              ]
+            }
+          },
+          {
+            "text": "OS Reboot"
+          },
+          {
+            "text": "Server Slow"
+          }
+        ]
+      }
+    },
+    {
+      "text": "DatabaseHosting",
+      "question": {
+        "text": "Problem Category?",
+        "answer": [
+          {
+            "text": "Database Restart"
+          },
+          {
+            "text": "Database very slow"
+          },
+          {
+            "text": "Database apply last backup"
+          }
+        ]
+      }
+    }
+  ]
+}
+
+          
